@@ -1,0 +1,1 @@
+C:\iverilog\gtkwave\bin\gtkwave out.vcd

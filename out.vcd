@@ -1,0 +1,306 @@
+$date
+	Sun May 14 17:05:31 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module summator_bit1_test $end
+$var wire 1 ! w_data_calculated $end
+$var wire 2 " w_data [1:0] $end
+$var wire 1 # number1 $end
+$var wire 1 $ number0 $end
+$var reg 1 % clk $end
+$var reg 2 & counter [1:0] $end
+$var reg 2 ' wdata [1:0] $end
+$var reg 1 ( wr $end
+$scope module summator1bit $end
+$var wire 1 ) bit0 $end
+$var wire 1 * bit1 $end
+$var wire 1 % input_clk $end
+$var wire 1 $ input_number0 $end
+$var wire 1 # input_number1 $end
+$var wire 1 ( input_write_enabled $end
+$var wire 1 + w_calculated $end
+$var reg 1 , output_bit1 $end
+$var reg 1 - output_bit2 $end
+$var reg 1 ! output_calculated $end
+$var reg 1 . r_calculated $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x.
+x-
+x,
+x+
+0*
+0)
+0(
+bx '
+b0 &
+0%
+0$
+0#
+bx "
+x!
+$end
+#10
+1)
+1$
+0+
+0.
+1(
+b1 &
+1%
+#20
+0%
+#30
+0!
+1+
+1.
+1-
+b1 "
+0,
+1%
+#40
+0(
+b1 '
+0%
+#50
+0$
+1#
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b10 &
+1%
+#60
+0%
+#70
+0!
+1+
+1.
+1-
+b1 "
+0,
+1%
+#80
+0(
+0%
+#90
+0)
+1*
+1$
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b11 &
+1%
+#100
+0%
+#110
+0!
+1+
+1.
+0-
+b10 "
+1,
+1%
+#120
+0(
+b10 '
+0%
+#130
+0*
+0$
+0#
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b0 &
+1%
+#140
+0%
+#150
+0!
+1+
+1.
+0-
+b0 "
+0,
+1%
+#160
+0(
+b0 '
+0%
+#170
+1)
+1$
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b1 &
+1%
+#180
+0%
+#190
+0!
+1+
+1.
+1-
+b1 "
+0,
+1%
+#200
+0(
+b1 '
+0%
+#210
+0$
+1#
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b10 &
+1%
+#220
+0%
+#230
+0!
+1+
+1.
+1-
+b1 "
+0,
+1%
+#240
+0(
+0%
+#250
+0)
+1*
+1$
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b11 &
+1%
+#260
+0%
+#270
+0!
+1+
+1.
+0-
+b10 "
+1,
+1%
+#280
+0(
+b10 '
+0%
+#290
+0*
+0$
+0#
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b0 &
+1%
+#300
+0%
+#310
+0!
+1+
+1.
+0-
+b0 "
+0,
+1%
+#320
+0(
+b0 '
+0%
+#330
+1)
+1$
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b1 &
+1%
+#340
+0%
+#350
+0!
+1+
+1.
+1-
+b1 "
+0,
+1%
+#360
+0(
+b1 '
+0%
+#370
+0$
+1#
+1!
+0+
+0.
+x-
+bx "
+x,
+1(
+b10 &
+1%
+#380
+0%
+#390
+0!
+1+
+1.
+1-
+b1 "
+0,
+1%
+#400
+0%
